@@ -1,0 +1,83 @@
+{
+    
+"access_token": "1000.e1f6b3ec95b75f6ac932944ea3910d30.5deae62355d2933d74192888e66ad158",
+    
+"refresh_token": "1000.fb677a258adfe130bd30dce42a951439.0a69c4f33100c9f6c0c687dbde804742",
+    
+"expires_in_sec": 3600,
+    
+"api_domain": "https://www.zohoapis.com",
+   
+ "token_type": "Bearer",
+    
+"expires_in": 3600000
+}
+
+
+https://accounts.zoho.com/oauth/v2/token?refresh_token=1000.fb677a258adfe130bd30dce42a951439.0a69c4f33100c9f6c0c687dbde804742&client_id=1000.PQXB4S3PELGM90257EY9FH7IEDECF3&client_secret=68e8bb317676b56a004cd40a759fe131ea866c00c5&grant_type=refresh_token
+
+
+access code is,
+1000.b0dbb0cdb8c31ae6f1339cd87871a338.563ba319259441eb22e68f44b163c66d
+
+
+
+
+http://172.16.0.116:3000/api/projects/NT-ALAGAR K
+http://172.16.0.116:3000/api/projecttasks/923846000003950312/NT-ALAGAR K/0
+
+
+https://accounts.zoho.com/oauth/v2/token?refresh_token=1000.be124b526bbd3d1dd7e702d4229d3b24.1ebfcb037944576ed2b7cd6ed67b1572&client_id=1000.PQXB4S3PELGM90257EY9FH7IEDECF3&client_secret=68e8bb317676b56a004cd40a759fe131ea866c00c5&grant_type=refresh_token
+
+https://jsao.io/2018/03/creating-a-rest-api-with-node-js-and-oracle-database/
+
+
+
+
+new
+
+
+
+https://accounts.zoho.com/oauth/v2/auth?response_type=code&access_type=offline&redirect_uri=http://portal.thechennaisilks.com/zoho_response.php&scope=ZohoProjects.projects.ALL,ZohoProjects.tasks.ALL,ZohoProjects.tasklists.ALL,ZohoProjects.portals.READ,ZohoProjects.timesheets.READ&client_id=1000.PQXB4S3PELGM90257EY9FH7IEDECF3
+
+
+1000.ead04ca65ba7a851c38f23cf566621d0.97339728e626512c09f916277288bd40
+
+
+1000.d0880b2fb4244d99b2681d26b79296fe.db37b108e6f5a88654f02325e7dc9691
+
+
+
+Authentication in NodeJS
+------------------------
+https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
+http://blog.slatepeak.com/creating-a-simple-node-express-api-authentication-system-with-passport-and-jwt/
+
+
+REST API calling in Android
+---------------------------
+https://stackoverflow.com/questions/29339565/calling-rest-api-from-an-android-app
+
+http://square.github.io/retrofit/
+
+// new user api for zoho
+
+
+https://accounts.zoho.com/oauth/v2/auth?response_type=code&access_type=offline&redirect_uri=http://portal.thechennaisilks.com/zoho_response.php&scope=ZohoProjects.projects.ALL,ZohoProjects.tasks.ALL,ZohoProjects.tasklists.ALL,ZohoProjects.portals.READ,ZohoProjects.timesheets.READ,ZohoProjects.users.ALL&client_id=1000.PQXB4S3PELGM90257EY9FH7IEDECF3  
+
+
+1000.a199824d307c723da842981a40f5ff51.3005ba84f026c692eb2bac63196e001e
+
+
+1000.17efc06b09c51f343f3917252fb7504a.5c63e9397662253560617660fba178dc\
+
+
+
+{
+    "access_token": "1000.885cc1aa9158aef7e13cf3d4296c2a17.f2af89c0d6f3e8084c7fc7307cd7667a",
+    "refresh_token": "1000.4013393e61baba4d6868e74884d5455c.3aabfc236131d2906daad6dad0ebba61",
+    "expires_in_sec": 3600,
+    "api_domain": "https://www.zohoapis.com",
+    "token_type": "Bearer",
+    "expires_in": 3600000
+}
